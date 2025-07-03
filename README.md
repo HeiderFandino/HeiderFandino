@@ -2,33 +2,33 @@
   <img src="https://github.com/HeiderFandino/HeiderFandino/raw/main/banner1.gif" alt="Banner animado de Heider" />
 </p>
 
-<h1 align="center">¡Hola, soy Heider!👋</h1>
+<h1 align="center">🛡️ ¡Saludos, viajero! Soy Heider 🗡️</h1>
 
 <p align="center">
-  Full-Stack Developer apasionado por crear aplicaciones web que hagan más fácil y eficiente el día a día. Vengo del mundo de la hostelería, donde aprendí a liderar equipos y optimizar procesos, y ahora aplico esas habilidades en tecnología.
+  Full-Stack Developer forjado en las tierras de la hostelería ⚔️, donde aprendí a liderar escuadrones y optimizar recursos. Ahora aplico esas habilidades en el vasto reino de la tecnología para construir aplicaciones que conquisten cualquier desafío.
 </p>
 
 ---
 
-## 📌 Sobre mí
+## ⚔️ Sobre mí
 
-- 🔭 Actualmente trabajando en mis proyectos personales para seguir creciendo como Full-Stack Developer.
-- 🌱 Aprendiendo nuevas tecnologías y mejores prácticas de desarrollo.
-- 📫 Puedes escribirme a [heiderfandino@gmail.com](mailto:heiderfandino@gmail.com) o conectar en [LinkedIn](https://www.linkedin.com/in/heiderfandino/).
+- 🔥 Entrenando constantemente en mis propios proyectos personales para fortalecer mis habilidades como Full-Stack Developer.
+- 📜 Aprendiendo nuevos hechizos (tecnologías) y perfeccionando mis técnicas de desarrollo.
+- 📨 Puedes enviarme un cuervo a [heiderfandino@gmail.com](mailto:heiderfandino@gmail.com) o forjar una alianza en [LinkedIn](https://www.linkedin.com/in/heiderfandino/).
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🏰 Proyectos Épicos
 
 ### [OhMyChef](https://github.com/HeiderFandino/ohMyChef)
-Plataforma para la gestión financiera de restaurantes. Permite registrar ventas, gastos, ver métricas en dashboards interactivos y gestionar usuarios, proveedores y facturas, todo con seguridad mediante JWT.
+Una plataforma digna de un banquete real 🍽️: permite registrar ventas y gastos, visualizar métricas con dashboards interactivos y gestionar usuarios, proveedores y facturas, todo protegido por los hechizos de seguridad JWT.
 
 ### [Pokédex](https://github.com/HeiderFandino/pokedex)
-Aplicación web hecha con React que consume la PokeAPI para mostrar Pokémon, ver detalles y agregarlos a favoritos con un sistema de estado global. Incluye rutas dinámicas y diseño responsivo.
+Una Pokédex que todo maestro Pokémon en busca de gloria debería tener: creada con React, conecta con la PokeAPI para mostrar criaturas, detalles y permite marcarlas como favoritas con un sistema de estado global.
 
 ---
 
-## 🛠 Tecnologías que uso
+## 🛡️ Herramientas de Batalla
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -42,7 +42,7 @@ Aplicación web hecha con React que consume la PokeAPI para mostrar Pokémon, ve
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de Batalla
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HeiderFandino&show_icons=true&theme=tokyonight" />
@@ -51,11 +51,11 @@ Aplicación web hecha con React que consume la PokeAPI para mostrar Pokémon, ve
 
 ---
 
-## 🌐 Encuéntrame en la web
+## 🏹 Únete a mi Gremio
 
 - [LinkedIn](https://www.linkedin.com/in/heiderfandino/)
 - [GitHub](https://github.com/HeiderFandino)
 
 ---
 
-<p align="center">¡Gracias por visitar mi perfil! 🙌 Si te interesa colaborar o tienes un proyecto en mente, no dudes en contactarme.</p>
+<p align="center">¡Gracias por visitar mi reino digital! 🙌 Si deseas unir fuerzas en una misión o proyecto, no dudes en contactarme.</p>
