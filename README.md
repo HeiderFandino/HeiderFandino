@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif" />
+  <img src="https://github.com/HeiderFandino/HeiderFandino/raw/main/banner1.gif" alt="Banner animado de Heider" />
 </p>
-<h1 align="center">¡Hola, soy Heider!👋</h1>
 
+<h1 align="center">¡Hola, soy Heider!👋</h1>
 
 <p align="center">
   Full-Stack Developer apasionado por crear aplicaciones web que hagan más fácil y eficiente el día a día. Vengo del mundo de la hostelería, donde aprendí a liderar equipos y optimizar procesos, y ahora aplico esas habilidades en tecnología.
 </p>
-
 
 ---
 
